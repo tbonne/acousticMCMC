@@ -1,8 +1,10 @@
 ---
 title: "acousticMCMC"
+author: Tyler Bonnell
+date: March 9, 2018
 output:
-  html_document: default
-  html_notebook: default
+  md_document:
+    variant: markdown_github
 ---
 
 ####*Listening to MCMC outputs, the acoustic MCMC package:*
