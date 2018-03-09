@@ -34,7 +34,7 @@ noisyMCMC(good.mcmc)
 noisyMCMC(bad.mcmc)
 ```
 
-
+   
 #### *Going forward:*
 
 There might be a million ways to listen to this kind of output. What might be most challenging in the contexts of MCMC outputs is the dimensionality (i.e., many parameters), the alternate scaling of parameters, and turning that into some kind of acoustic output. With the ultimate goal of better distinguishing the quality of the MCMC estimation.
