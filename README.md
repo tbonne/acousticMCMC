@@ -1,6 +1,6 @@
 #### *Listening to MCMC outputs, the acoustic MCMC package:*
 
-This package contains functions for listening to MCMC outputs. The idea is that a good output should result in relatively static sounds, i.e., well behaved parameter estimates coming from the MCMC chains should be result a steady sound. Whereas in a badly performing MCMC should provide a more dynamic listening experience.
+This package contains functions for listening to MCMC outputs. The idea here is that a good output should result in relatively static sounds, i.e., well behaved parameter estimates should result in steady acoustics. Whereas a badly performing MCMC should provide a more dynamic listening experience.
 
 The aim is to collect a variety of ways of listening to the outputs of MCMC chains, and is mostly just for fun...
 
